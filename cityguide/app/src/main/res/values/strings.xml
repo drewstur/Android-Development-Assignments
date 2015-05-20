@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">San Francisco City Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_trolley">Trolley</string>
+    <string name="title_activity_bridge">Bridge</string>
+    <string name="title_activity_wharf">Wharf</string>
+    <string name="titleImage">titleImage</string>
+
+</resources>

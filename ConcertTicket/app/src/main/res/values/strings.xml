@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Concert Tickets</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ticketVaultTitle">Ticket Vault</string>
+    <string name="btnCost">Find Button Cost</string>
+    <string name="concertPicture">concertPicture</string>
+    <string name="textResult">Text Results</string>
+    <string-array name="Groups">
+        <item>Dragonfly</item>
+        <item>Nine Volt</item>
+        <item>Red Road</item>
+    </string-array>
+    <string name="Title">Select Group</string>
+    <string name="numberOfTickets">Number of Tickets</string>
+    <string name="imageConcert">concertImage</string>
+    <string name="nmbTicketHint">Number of Tickets</string>
+
+
+</resources>

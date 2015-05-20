@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SailingAdventuresActivity">
+
+    <ImageView
+        android:layout_width="220dp"
+        android:layout_height="685dp"
+        android:src="@drawable/sailing"
+        android:id="@+id/imgSail"
+        android:contentDescription="imgSail" />
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="698dp">
+        <TableRow>
+            <View android:layout_height="60dp"/>
+            <TextView android:id="@+id/txtTitle"
+                android:layout_width="wrap_content"
+                android:background="#B0C4DE"
+                android:gravity="center_horizontal"
+                android:padding="30dp"
+                android:text="Sailing Adventures - Kona, Hawaii"
+                android:textSize="50sp"
+                android:typeface="serif"/>
+        </TableRow>
+        <TableRow>
+            <View android:layout_height="60dp"/>
+            <TextView android:text="@string/txtDescription"
+                android:layout_width="wrap_content"
+                android:padding="20dp"
+                android:textSize="42sp"
+                android:id="@+id/txtDescription" />
+        </TableRow>
+        <TableRow>
+            <View android:layout_height="50dp"/>
+            <Button android:layout_width="wrap_content"
+                android:padding="20dp"
+                android:id="@+id/btnDate"
+                android:text="Select the Date"
+                android:textSize="36dp"
+                android:textAlignment="center"
+                android:gravity="center_horizontal" />
+        </TableRow>
+        <TableRow>
+            <View android:layout_height="60dp"/>
+            <TextView android:gravity="center"
+                android:padding="20dp"
+                android:id="@+id/txtReservation"
+                android:textSize="30dp" />
+        </TableRow>
+        </TableLayout>
+
+</LinearLayout>

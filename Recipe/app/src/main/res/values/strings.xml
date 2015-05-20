@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Healthy Recipes</string>
+    <string name="action_settings">Settings</string>
+    <string name="spicySalsaTitle">Spicy Salsa</string>
+    <string name="salsa_image">salsa_image</string>
+    <string name="btnText">VIEW RECIPE</string>
+    <string name="title_activity_recipe">Recipe</string>
+    <string name="salsa_title">Spicy Salsa</string>
+    <string name="chopped_roma">6 chopped Roma tomatoes</string>
+    <string name="spicy_salsa_title">Spicy Salsa Recipe</string>
+    <string name="minced_garlic">4 minced garlic cloves</string>
+    <string name="red_bell_pepper">1 red bell pepper, finely diced</string>
+    <string name="seeded_minced_jalapenos">2 seeded and minced jalapenos</string>
+    <string name="roasted_skinned_chopped_jalapenos">2 roasted, skinned, chopped jalapenos</string>
+    <string name="ancho_chiles">2 dry ancho chiles, seeded, cut into short strips, snipped into pieces</string>
+    <string name="preperation_title">Preparation</string>
+    <string name="combine_all_ingredients_instructions">Combine all ingredients. Place in refrigerator for up to 12 hours. Serve with tortilla chips.</string>
+    <string name="alton_brown">Recipe courtesy Alton Brown</string>
+    <string name="red_onion">1/2 red onion, fine chopped</string>
+    <string name="ingredients_title">Ingredients</string>
+    <string name="olive_oil">1 tablespoon olive oil</string>
+
+</resources>
